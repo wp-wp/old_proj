@@ -1,2 +1,2 @@
 # old_proj
-old projects/exercises
+ex1.java - dodawanie wektorów przy użyciu programowania równoległego
