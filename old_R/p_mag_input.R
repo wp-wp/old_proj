@@ -1,3 +1,6 @@
+#### stara wersja kodu wyciągającego potrzebne dane z list pomiarowych sensorów
+
+
 filenames<- (list.files(pattern='tape$',full=TRUE))
 
 library(doParallel)
