@@ -1,7 +1,7 @@
 
 /**
  *
- * @author Weronika Piskorz
+ * @author wp-wp
  */
 import java.util.Random;
 import java.io.IOException;
